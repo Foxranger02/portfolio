@@ -176,7 +176,7 @@
     
     height: 100px;
     width:100px;
-    position: absolute;
+    position: relative;
 }
 #am{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  ;
