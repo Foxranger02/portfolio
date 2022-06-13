@@ -40,9 +40,10 @@
 }
 #sub1 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    margin-left: 1%;
+    margin-left: 3%;
     font-size: 20px;
-    margin-top: 2.5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     position:absolute;
     color: rgb(43, 29, 29);
 }
