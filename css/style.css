@@ -165,8 +165,9 @@
 #ins{
     height: auto;
     width:80%;
-    margin-left: 10%;
+    margin-left: auto;
     margin-bottom: 30px;
+    margin-right:auto;
     padding:20px;
     border-radius: 10px;
     background-image: linear-gradient(to left , #b15291,#849fc4);
