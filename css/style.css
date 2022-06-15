@@ -49,11 +49,12 @@
 }
 #sub1 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 .img{
      height: 50px;
@@ -72,12 +73,13 @@
    
 }
 #sub2 a {
-     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 
 #sub3{
@@ -90,11 +92,12 @@
 }
 #sub3 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 
 #sub4{
@@ -106,11 +109,12 @@
 }
 #sub4 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 #sub5{
     width: 40%;
@@ -122,11 +126,12 @@
 }
 #sub5 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 #sub6{
     width: 40%;
@@ -138,11 +143,12 @@
 }
 #sub6 a {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    padding-left: 1%;
+    padding-left: 1.5%;
     padding-top: 1%;
     font-size: 20px;
     position:absolute;
     color: rgb(43, 29, 29);
+    text-decoration: none;
 }
 
 
