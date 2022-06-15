@@ -6,17 +6,20 @@
     font-size: 40px;
     height: auto;
     margin-top: 10px;
-    margin-right:auto;
+    margin-right: auto;
     white-space: nowrap;
-    animation:type 5s steps(60,end);
+    overflow: hidden;
+    animation: type 5s steps(60,end);
     
 }
 .wrapper{
-    background-color:transparent;
+    background-color: transparent;
+
 }
+
 @keyframes type{
     from{
-    width:0;
+        width:0;
     }
 }
 
