@@ -1,13 +1,23 @@
 #container{
     background-image: linear-gradient(to right,#D3D3D3,#ADD8E6);
 }
-#nav{
+#nav h2{
     width: 100%;
-    font-size: 60px;
+    font-size: 40px;
     height: auto;
     margin-top: 10px;
-    text-align: center;
+    margin-right:auto;
+    white-space: nowrap;
+    animation:type 5s steps(60,end);
     
+}
+.wrapper{
+    background-color:black;
+}
+@keyframes type{
+    from{
+    width:0;
+    }
 }
 
 #link{
@@ -212,3 +222,12 @@
     
 
 }
+
+#name{
+    color:transparent;
+    white-space:nowrap;
+}
+
+#name:hover{
+    color:black;
+    transition-duration:0.5s;}
