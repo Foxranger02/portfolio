@@ -28,9 +28,7 @@
     height: auto;
     /* margin-top: 3%; */
     margin-right: auto;
-    white-space: nowrap;
-    overflow:hidden;
-    animation: type 5s steps(60,end);
+ 
 
     
 }
